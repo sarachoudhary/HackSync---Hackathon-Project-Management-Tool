@@ -99,13 +99,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application interface here.
-
----
-
-## 🎯 Use Cases
+## Use Cases
 
 * Hackathon teams managing projects
 * Student developer groups
@@ -114,17 +108,15 @@ Add screenshots of your application interface here.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
-* AI project idea generator
-* Team matching based on skills
-* Hackathon countdown timer
-* Progress analytics dashboard
-* Judging and mentor interface
-
+* AI stand-up summarizer
+* Smart task suggestions
+* Team productivity score
+* Export report for judges
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit pull requests.
 
