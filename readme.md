@@ -37,7 +37,6 @@ HackSync solves this by providing a single platform tailored for hackathon workf
 
 ### Collaboration
 
-* Team communication features
 * Shared updates and coordination
 
 ---
